@@ -5,3 +5,5 @@ Antes de estudiar programación, hice dos años del profesarado de historia en l
 
 Actualmente trabajo en un comercio pero ya ando con ganas de meterme a laburar en el rubro IT.
 En mis tiempos libres me gusta juntarme con amigues, cocinar, jugar al fuchibol o al paddle e ir a recitales.
+
+![Gabi Tarquini](https://imgur.com/Hbw255m)
