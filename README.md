@@ -1,26 +1,7 @@
-# Presentación
+#Gabriel Tarquini
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Hola me llamo Gabriel, tengo 26 años y estoy en el segundo año de la carrera de TPI.
+Antes de estudiar programación, hice dos años del profesarado de historia en la untref y un año de produccion audiovisual en la misma universidad.
 
-Ya saben usar git!
-
-
-## Estudiante: Nombre estudiante
-
-Descripción
-
-Foto de mi persona:
-
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
-
-Diente de Leon
-
-------
-
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
-
+Actualmente trabajo en un comercio pero ya ando con ganas de meterme a laburar en el rubro IT.
+En mis tiempos libres me gusta juntarme con amigues, cocinar, jugar al fuchibol o al paddle e ir a recitales.
